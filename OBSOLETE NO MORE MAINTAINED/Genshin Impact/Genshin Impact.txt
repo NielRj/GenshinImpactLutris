@@ -1,11 +1,11 @@
 files:
-- patch: https://github.com/zeroday0619/MyLittleLutrisScripts/raw/master/OBSOLETE%20NO%20MORE%20MAINTAINED/Genshin%20Impact/gi_patch_310.zip
+- patch: https://github.com/osuppa/GenshinImpactLutris/raw/master/Genshin%20Impact/gi_patch_400.zip
 - giclient:
     filename: GenshinImpact_install_mihoyo.exe
     url: https://ys-api-os.mihoyo.com/event/download_porter/link/ys_global/genshinimpactpc/default
-- menubat: https://github.com/legluondunet/MyLittleLutrisScripts/raw/master/OBSOLETE%20NO%20MORE%20MAINTAINED/Genshin%20Impact/gi_menu.bat
-- menush: https://github.com/legluondunet/MyLittleLutrisScripts/raw/master/OBSOLETE%20NO%20MORE%20MAINTAINED/Genshin%20Impact/gi_patch.sh
-- bmp: https://github.com/legluondunet/MyLittleLutrisScripts/raw/master/OBSOLETE%20NO%20MORE%20MAINTAINED/Genshin%20Impact/gi.bmp
+- menubat: https://github.com/osuppa/GenshinImpactLutris/raw/master/Genshin%20Impact/gi_menu.bat
+- menush: https://github.com/osuppa/GenshinImpactLutris/raw/master/Genshin%20Impact/gi_patch.sh
+- bmp: https://github.com/osuppa/GenshinImpactLutris/raw/master/Genshin%20Impact/gi.bmp
 game:
   args: c:\\gi_menu.bat
   exe: drive_c/windows/syswow64/wineconsole.exe
